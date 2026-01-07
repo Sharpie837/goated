@@ -3293,8 +3293,8 @@ do
 			Data = Data or {}
 
 			local Window = {
-				Name = Data.Name or Data.name or "Black hole",
-				Logo = Data.Logo or Data.logo or "89150189564522",
+				Name = Data.Name or Data.name or "Celsitav42",
+				Logo = Data.Logo or Data.logo or "133780276309874",
 
 				Pages = {},
 				Items = {},
@@ -3365,7 +3365,7 @@ do
 					Name = "\0",
 					ImageColor3 = FromRGB(255, 0, 0),
 					BorderColor3 = FromRGB(0, 0, 0),
-					Image = "rbxassetid://89150189564522",
+					Image = "rbxassetid://77298421442104",
 					BackgroundTransparency = 1,
 					Position = UDim2New(0, 8, 0, 10),
 					Size = UDim2New(0, 18, 0, 18),
