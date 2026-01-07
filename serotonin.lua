@@ -3293,8 +3293,8 @@ do
 			Data = Data or {}
 
 			local Window = {
-				Name = Data.Name or Data.name or "Celsitav42",
-				Logo = Data.Logo or Data.logo or "133780276309874",
+				Name = Data.Name or Data.name or "gaming",
+				Logo = Data.Logo or Data.logo or "8508980527",
 
 				Pages = {},
 				Items = {},
